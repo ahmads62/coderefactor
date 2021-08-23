@@ -1,2 +1,1 @@
-# coderefactor
-modify code to meet accessibility standards and best coding practice
+# Code Refactor Starter Code
