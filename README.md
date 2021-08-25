@@ -29,7 +29,7 @@
 
 ### Links
     * Code Repository Link  (https://github.com/ahmads62/horiseon-code-refactor)
-    * Deployed Website Link (https://ahmads62.github.io/horiseon-code-refactor/)
+    * Deployed Website Link (https://ahmads62.github.io/horiseon-code-refactor/Develop/index.html)
 
 ## Installation
     Upload index.html, and assets folder, assets folder contains images and CSS files.
