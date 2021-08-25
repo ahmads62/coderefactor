@@ -18,4 +18,18 @@
     THEN they fall in sequential order
     WHEN I view the title element
     THEN I find a concise, descriptive title
+    
+### Tasks Accomplished 
+    1 Redundant classes were removed and consolidated
+    2 <div> HTML elements were replaced with semantic HTML elements
+    3 Alt text was added to images
+    4 Comments added in the HTML 
+    5 CSS organised and comments added to improve readibility 
+    6 A descriptive title was added
 
+### Links
+    * Code Repository Link  (https://github.com/ahmads62/horiseon-code-refactor)
+    * Deployed Website Link (https://ahmads62.github.io/horiseon-code-refactor/)
+
+## Installation
+    Upload index.html, and assets folder, assets folder contains images and CSS files.
