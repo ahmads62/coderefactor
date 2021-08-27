@@ -28,10 +28,10 @@
     6 A descriptive title was added
 
 ### Desktop Screen Images
-    Header / Nav / Hero
-    ![Header-Nav](./develop/assets/images/hori-header.png?raw=true "Header")
-    Main / Body / Footer
-    ![Header-Nav](./develop/assets/images/hori-body.png?raw=true "Home Page")
+Header / Nav / Hero
+![Header-Nav](./Develop/assets/images/hori-header.png?raw=true "Header")
+Main / Body / Footer
+![Body-Footer](./Develop/assets/images/hori-body.png?raw=true "Home Page")
 
 
 ### Links
