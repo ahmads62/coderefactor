@@ -29,7 +29,7 @@
 
 ### Desktop Screen Images
     Header / Nav / Hero
-    ![Header-Nav](./develop/assets/images/hori-header.png?raw=true "Header")
+    ![Header-Nav](./Develop/assets/images/hori-header.png?raw=true "Header")
     Main / Body / Footer
     ![Header-Nav](./develop/assets/images/hori-body.png?raw=true "Home Page")
 
