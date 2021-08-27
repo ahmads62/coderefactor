@@ -31,7 +31,7 @@
     Header / Nav / Hero
     ![Header-Nav](./Develop/assets/images/hori-header.png?raw=true "Header")
     Main / Body / Footer
-    ![Header-Nav](./develop/assets/images/hori-body.png?raw=true "Home Page")
+![Body](./assets/images/hori-body.png?raw=true "Home Page")
 
 
 ### Links
