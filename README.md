@@ -27,6 +27,13 @@
     5 CSS organised and comments added to improve readibility 
     6 A descriptive title was added
 
+### Desktop Screen Images
+    Header / Nav / Hero
+    ![Header-Nav](./develop/assets/images/hori-header.png?raw=true "Header")
+    Main / Body / Footer
+    ![Header-Nav](./develop/assets/images/hori-body.png?raw=true "Home Page")
+
+
 ### Links
     * Code Repository Link  (https://github.com/ahmads62/horiseon-code-refactor)
     * Deployed Website Link (https://ahmads62.github.io/horiseon-code-refactor/Develop/index.html)
